@@ -2,28 +2,41 @@
     "posts": [
         {
             "id": 1,
-            "title": "JSON-Server",
-            "author": "Amit"
+            "title": "The Evolution of American Democracy",
+            "description": "An in-depth look at how American democracy has evolved over the centuries, from its founding principles to modern-day challenges.",
+            "author": "John Smith"
         },
         {
             "id": 2,
-            "title": "Node.js",
-            "author": "Mohit"
+            "title": "The Role of Media in U.S. Politics",
+            "description": "This article explores how media influences public opinion and political campaigns in the United States.",
+            "author": "Jane Doe"
+        },
+        {
+            "id": 3,
+            "title": "The Impact of Political Polarization",
+            "description": "A discussion on how increasing political polarization is affecting governance and society in the United States.",
+            "author": "Emily Johnson"
         }
     ],
     "comments": [
         {
             "id": 1,
-            "body": "Great post!",
+            "body": "This is a fascinating read!",
             "postId": 1
         },
         {
             "id": 2,
-            "body": "Informative!",
+            "body": "I agree, media plays a huge role in shaping opinions.",
             "postId": 2
+        },
+        {
+            "id": 3,
+            "body": "Polarization is a real issue we need to address.",
+            "postId": 3
         }
     ],
     "profile": {
-        "name": "Amit Kumar"
+        "name": "Political Insights"
     }
 }
